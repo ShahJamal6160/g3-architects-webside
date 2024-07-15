@@ -43,7 +43,7 @@
 
 }
 
-main{
+main {
     max-width: 1440px;
     margin: 0 auto;
 }
@@ -205,6 +205,15 @@ main> section{
 }
 .sponsor-companies img{
     filter: grayscale(100%);
+}
+
+/* footer style */
+.footer-title{
+    text-align: center;
+    font-size: 1rem;
+    padding: 38px 80px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 /* responsive media */
 
